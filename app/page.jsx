@@ -1,5 +1,7 @@
+'use client';
+
 import React, { useState, useEffect } from 'react';
-import { ChevronDown, Plus, Mail, Phone, Calendar, DollarSign, TrendingUp, Users, FileText, Search, X, Settings } from 'lucide-react';
+import { Mail, Phone, Calendar, TrendingUp, Users, Search } from 'lucide-react';
 
 const InvestorTrackingSystem = () => {
   // Airtable Configuration
